@@ -9,7 +9,14 @@ The box called"boite-labcesi" whose size is"90mmX100mmX50mm". Our box has 5 surf
 ## Improvement
 
 Although we achieved overlapping in first design, the eight supports on the bottom are very figile. According to our previous experience, we reduce eight holes to four but create them bigger.
+
+## Gallery
+
+![](boite-2-1.png?raw=true)
+![](boite-2-2.png?raw=true)
+![](boite-2-3.png?raw=true)
+
 ## Licence
 
-As per file ```licence```, all documents are under
+As per file [```licence```](LICENSE?raw=true), all documents are under
 [Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
