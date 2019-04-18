@@ -1,0 +1,15 @@
+# Box from Lab'Cesi
+
+## Introduction
+
+At the engineer school, sometimes we must bring components from one place to another. Right now our laboratory designed a box which could keep small components in case of loss and make them ealiser to carry. In oder to organize clearer, these boxes are enable to overlap together.
+
+## First designed box
+The box called"boite-labcesi" whose size is"90mmX100mmX50mm". Our box has 5 surfaces, otherwise there is a bevel in front of the box which makes people find components more convenient. We designed eight holes on the top and eight sppourts on the bottom to overlap two boxes.
+## Improvement
+
+Although we achieved overlapping in first design, the eight supports on the bottom are very figile. According to our previous experience, we reduce eight holes to four but create them bigger.
+## Licence
+
+As per file ```licence```, all documents are under
+[Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
